@@ -11,7 +11,7 @@ brew install marathon-swift
 Install script using Marathon:
 
 ```
-marathon install jsonSortKeys
+marathon install nvh/json-sort-keys
 ```
 
 # Usage
