@@ -3,7 +3,7 @@ import Files // marathon:https://github.com/JohnSundell/Files.git
 
 let arguments = CommandLine.arguments
 
-let name = "jsonSortKeys"
+let name = "jsonsortkeys"
 
 
 guard #available(OSX 10.13, *) else {
